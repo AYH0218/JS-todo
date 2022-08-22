@@ -21,7 +21,7 @@ button:hover {
   cursor: pointer;
 }
 
-.list-row p {
+.list-row li {
   margin: 0 8px 4px 0;
 }
 
